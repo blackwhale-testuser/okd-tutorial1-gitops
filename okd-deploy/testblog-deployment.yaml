@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: blog-frontend
-        image: docker.io/spcsenti/testblog:latest
+        image: docker.io/spcsenti2023/okdtutorial:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
