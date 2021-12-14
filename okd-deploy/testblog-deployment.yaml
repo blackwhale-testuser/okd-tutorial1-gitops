@@ -25,4 +25,4 @@ spec:
         - containerPort: 3000
         env:
         - name: MY_TAG
-          value: test.7777
+          value: {15}
